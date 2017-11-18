@@ -1,5 +1,5 @@
 # weighted_random_sampling
-Pure python implementation of weighted random sampling
+Pure python(2.7) implementation of weighted random sampling
 
 
 
